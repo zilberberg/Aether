@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e5052ff18ce2b604a8df8ece0be4e9a1
+timeCreated: 1513721542
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spaceboy
+  fontNames:
+  - Spaceboy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

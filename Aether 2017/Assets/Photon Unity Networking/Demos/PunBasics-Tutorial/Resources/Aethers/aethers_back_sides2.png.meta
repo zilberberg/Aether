@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: ed2849c8565918a439001dd176a8f6c4
+timeCreated: 1495207386
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: aethers_back_sides2_0
+    21300002: aethers_back_sides2_2
+    21300004: aethers_back_sides2_4
+    21300006: aethers_back_sides2_7
+    21300008: aethers_back_sides2_8
+    21300010: aethers_back_sides2_10
+    21300012: aethers_back_sides2_12
+    21300014: aethers_back_sides2_16
+    21300016: aethers_back_sides2_18
+    21300018: aethers_back_sides2_20
+    21300020: aethers_back_sides2_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aethers_back_sides2_0
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 686
+        width: 238
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 157.5}
+        - {x: -31, y: 157.5}
+        - {x: -77, y: 124.5}
+        - {x: -90, y: 43.5}
+        - {x: -119, y: -33.5}
+        - {x: -119, y: -135.5}
+        - {x: -108, y: -157.5}
+        - {x: 73, y: -157.5}
+        - {x: 104, y: -155.5}
+        - {x: 119, y: -122.5}
+        - {x: 119, y: 13.5}
+        - {x: 99, y: 106.5}
+      - - {x: -102, y: -144.5}
+        - {x: -104, y: -146.5}
+        - {x: -104, y: -148.5}
+        - {x: -102, y: -150.5}
+        - {x: -100, y: -150.5}
+        - {x: -98, y: -148.5}
+        - {x: -98, y: -146.5}
+        - {x: -100, y: -144.5}
+      - - {x: -87, y: 65.5}
+        - {x: -90, y: 65.5}
+        - {x: -90, y: 51.5}
+        - {x: -86, y: 46.5}
+        - {x: -83, y: 43.5}
+        - {x: -81, y: 43.5}
+        - {x: -79, y: 45.5}
+        - {x: -82, y: 57.5}
+        - {x: -85, y: 64.5}
+      - - {x: 37, y: 147.5}
+        - {x: 42, y: 142.5}
+        - {x: 47, y: 142.5}
+        - {x: 47, y: 157.5}
+        - {x: 39, y: 157.5}
+        - {x: 37, y: 155.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aethers_back_sides2_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 695
+        width: 273
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.5, y: -60.5}
+        - {x: 115.5, y: -47.5}
+        - {x: 105.5, y: -47.5}
+        - {x: 103.5, y: -50.5}
+        - {x: 109.5, y: -60.5}
+        - {x: 115.5, y: -60.5}
+        - {x: 110.5, y: -60.5}
+        - {x: 108.5, y: -61.5}
+        - {x: 103.5, y: -55.5}
+        - {x: 92.5, y: -55.5}
+        - {x: 91.5, y: -51.5}
+        - {x: 78.5, y: -14.5}
+        - {x: 32.5, y: 10.5}
+        - {x: 73.5, y: 26.5}
+        - {x: 111.5, y: 46.5}
+        - {x: 61.5, y: 150.5}
+        - {x: 20.5, y: 159.5}
+        - {x: -14.5, y: 159.5}
+        - {x: -81.5, y: 87.5}
+        - {x: -136.5, y: 16.5}
+        - {x: -136.5, y: -126.5}
+        - {x: -105.5, y: -159.5}
+        - {x: 91.5, y: -159.5}
+        - {x: 128.5, y: -131.5}
+        - {x: 136.5, y: -114.5}
+        - {x: 136.5, y: -76.5}
+      - - {x: -126.5, y: -104.5}
+        - {x: -122.5, y: -108.5}
+        - {x: -122.5, y: -109.5}
+        - {x: -121.5, y: -109.5}
+      - - {x: -119.5, y: -66.5}
+        - {x: -118.5, y: -67.5}
+        - {x: -117.5, y: -66.5}
+        - {x: -112.5, y: -66.5}
+      - - {x: -100.5, y: -60.5}
+        - {x: -99.5, y: -57.5}
+        - {x: -97.5, y: -58.5}
+        - {x: -100.5, y: -64.5}
+      - - {x: 96.5, y: -47.5}
+        - {x: 96.5, y: -49.5}
+        - {x: 99.5, y: -52.5}
+        - {x: 100.5, y: -52.5}
+        - {x: 103.5, y: -49.5}
+        - {x: 102.5, y: -46.5}
+        - {x: 98.5, y: -45.5}
+      - - {x: 74.5, y: 25.5}
+        - {x: 71.5, y: 24.5}
+        - {x: 64.5, y: 16.5}
+        - {x: 65.5, y: 13.5}
+        - {x: 76.5, y: 13.5}
+        - {x: 83.5, y: 18.5}
+        - {x: 83.5, y: 22.5}
+        - {x: 82.5, y: 25.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aethers_back_sides2_4
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 686
+        width: 243
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 157.5}
+        - {x: -84.5, y: 100.5}
+        - {x: -121.5, y: -7.5}
+        - {x: -121.5, y: -138.5}
+        - {x: -72.5, y: -157.5}
+        - {x: 121.5, y: -157.5}
+        - {x: 121.5, y: 118.5}
+        - {x: 48.5, y: 157.5}
+      - - {x: 100.5, y: -148.5}
+        - {x: 102.5, y: -150.5}
+        - {x: 105.5, y: -149.5}
+        - {x: 105.5, y: -146.5}
+        - {x: 103.5, y: -144.5}
+        - {x: 100.5, y: -145.5}
+      - - {x: 89.5, y: 65.5}
+        - {x: 86.5, y: 64.5}
+        - {x: 80.5, y: 51.5}
+        - {x: 80.5, y: 44.5}
+        - {x: 81.5, y: 43.5}
+        - {x: 86.5, y: 43.5}
+        - {x: 91.5, y: 49.5}
+        - {x: 91.5, y: 64.5}
+      - - {x: -42.5, y: 157.5}
+        - {x: -47.5, y: 155.5}
+        - {x: -47.5, y: 144.5}
+        - {x: -46.5, y: 142.5}
+        - {x: -43.5, y: 142.5}
+        - {x: -37.5, y: 147.5}
+        - {x: -37.5, y: 157.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aethers_back_sides2_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 359
+        width: 238
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119, y: -157.5}
+        - {x: 76, y: -157.5}
+        - {x: 119, y: -138.5}
+        - {x: 119, y: 34.5}
+        - {x: 104, y: 88.5}
+        - {x: 37, y: 157.5}
+        - {x: -53, y: 157.5}
+        - {x: -119, y: 117.5}
+      - - {x: -102, y: -144.5}
+        - {x: -104, y: -146.5}
+        - {x: -104, y: -148.5}
+        - {x: -102, y: -150.5}
+        - {x: -100, y: -150.5}
+        - {x: -98, y: -148.5}
+        - {x: -98, y: -146.5}
+        - {x: -100, y: -144.5}
+      - - {x: -90, y: 65.5}
+        - {x: -90, y: 51.5}
+        - {x: -87, y: 45.5}
+        - {x: -83, y: 43.5}
+        - {x: -79, y: 43.5}
+        - {x: -79, y: 54.5}
+        - {x: -86, y: 65.5}
+      - - {x: 39, y: 157.5}
+        - {x: 37, y: 155.5}
+        - {x: 37, y: 147.5}
+        - {x: 42, y: 142.5}
+        - {x: 47, y: 142.5}
+        - {x: 47, y: 152.5}
+        - {x: 46, y: 157.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aethers_back_sides2_10
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 364
+        width: 273
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.5, y: -47.5}
+        - {x: 103.5, y: -50.5}
+        - {x: 109.5, y: -60.5}
+        - {x: 115.5, y: -60.5}
+        - {x: 110.5, y: -60.5}
+        - {x: 108.5, y: -61.5}
+        - {x: 103.5, y: -55.5}
+        - {x: 92.5, y: -55.5}
+        - {x: 91.5, y: -51.5}
+        - {x: 78.5, y: -14.5}
+        - {x: 32.5, y: 10.5}
+        - {x: 73.5, y: 26.5}
+        - {x: 111.5, y: 46.5}
+        - {x: 61.5, y: 150.5}
+        - {x: 20.5, y: 159.5}
+        - {x: -14.5, y: 159.5}
+        - {x: -81.5, y: 87.5}
+        - {x: -136.5, y: -10.5}
+        - {x: -136.5, y: -159.5}
+        - {x: 136.5, y: -159.5}
+        - {x: 136.5, y: -69.5}
+        - {x: 116.5, y: -42.5}
+      - - {x: -126.5, y: -104.5}
+        - {x: -122.5, y: -108.5}
+        - {x: -122.5, y: -109.5}
+        - {x: -121.5, y: -109.5}
+      - - {x: -119.5, y: -66.5}
+        - {x: -118.5, y: -67.5}
+        - {x: -117.5, y: -66.5}
+        - {x: -112.5, y: -66.5}
+      - - {x: -100.5, y: -60.5}
+        - {x: -99.5, y: -57.5}
+        - {x: -97.5, y: -58.5}
+        - {x: -100.5, y: -64.5}
+      - - {x: 96.5, y: -47.5}
+        - {x: 96.5, y: -49.5}
+        - {x: 99.5, y: -52.5}
+        - {x: 100.5, y: -52.5}
+        - {x: 103.5, y: -49.5}
+        - {x: 102.5, y: -46.5}
+        - {x: 98.5, y: -45.5}
+      - - {x: 74.5, y: 25.5}
+        - {x: 71.5, y: 24.5}
+        - {x: 64.5, y: 16.5}
+        - {x: 65.5, y: 13.5}
+        - {x: 76.5, y: 13.5}
+        - {x: 83.5, y: 18.5}
+        - {x: 83.5, y: 22.5}
+        - {x: 82.5, y: 25.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aethers_back_sides2_12
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 359
+        width: 243
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.5, y: 157.5}
+        - {x: -70.5, y: 157.5}
+        - {x: -121.5, y: 58.5}
+        - {x: -121.5, y: -157.5}
+        - {x: 121.5, y: -157.5}
+        - {x: 121.5, y: 25.5}
+        - {x: 91.5, y: 152.5}
+      - - {x: 100.5, y: -148.5}
+        - {x: 102.5, y: -150.5}
+        - {x: 105.5, y: -149.5}
+        - {x: 105.5, y: -146.5}
+        - {x: 103.5, y: -144.5}
+        - {x: 100.5, y: -145.5}
+      - - {x: 89.5, y: 65.5}
+        - {x: 86.5, y: 64.5}
+        - {x: 80.5, y: 51.5}
+        - {x: 80.5, y: 44.5}
+        - {x: 81.5, y: 43.5}
+        - {x: 86.5, y: 43.5}
+        - {x: 91.5, y: 49.5}
+        - {x: 91.5, y: 64.5}
+      - - {x: -38.5, y: 157.5}
+        - {x: -41.5, y: 157.5}
+        - {x: -47.5, y: 155.5}
+        - {x: -47.5, y: 142.5}
+        - {x: -42.5, y: 142.5}
+        - {x: -37.5, y: 147.5}
+        - {x: -37.5, y: 155.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aethers_back_sides2_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 7
+        width: 238
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -119, y: -157.5}
+        - {x: 76, y: -157.5}
+        - {x: 119, y: -138.5}
+        - {x: 119, y: 34.5}
+        - {x: 104, y: 88.5}
+        - {x: 37, y: 157.5}
+        - {x: -53, y: 157.5}
+        - {x: -119, y: 117.5}
+      - - {x: -102, y: -144.5}
+        - {x: -104, y: -146.5}
+        - {x: -104, y: -148.5}
+        - {x: -102, y: -150.5}
+        - {x: -100, y: -150.5}
+        - {x: -98, y: -148.5}
+        - {x: -98, y: -146.5}
+        - {x: -100, y: -144.5}
+      - - {x: -90, y: 65.5}
+        - {x: -90, y: 51.5}
+        - {x: -87, y: 45.5}
+        - {x: -83, y: 43.5}
+        - {x: -79, y: 43.5}
+        - {x: -79, y: 54.5}
+        - {x: -86, y: 65.5}
+      - - {x: 39, y: 157.5}
+        - {x: 37, y: 155.5}
+        - {x: 37, y: 147.5}
+        - {x: 42, y: 142.5}
+        - {x: 47, y: 142.5}
+        - {x: 47, y: 152.5}
+        - {x: 46, y: 157.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aethers_back_sides2_18
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 12
+        width: 273
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103.5, y: -50.5}
+        - {x: 109.5, y: -60.5}
+        - {x: 115.5, y: -60.5}
+        - {x: 110.5, y: -60.5}
+        - {x: 108.5, y: -61.5}
+        - {x: 103.5, y: -55.5}
+        - {x: 92.5, y: -55.5}
+        - {x: 91.5, y: -51.5}
+        - {x: 78.5, y: -14.5}
+        - {x: 32.5, y: 10.5}
+        - {x: 73.5, y: 26.5}
+        - {x: 111.5, y: 46.5}
+        - {x: 61.5, y: 150.5}
+        - {x: 20.5, y: 159.5}
+        - {x: -14.5, y: 159.5}
+        - {x: -81.5, y: 87.5}
+        - {x: -136.5, y: -10.5}
+        - {x: -136.5, y: -138.5}
+        - {x: -92.5, y: -159.5}
+        - {x: 91.5, y: -159.5}
+        - {x: 136.5, y: -135.5}
+        - {x: 136.5, y: -52.5}
+        - {x: 103.5, y: -42.5}
+      - - {x: -126.5, y: -104.5}
+        - {x: -122.5, y: -108.5}
+        - {x: -122.5, y: -109.5}
+        - {x: -121.5, y: -109.5}
+      - - {x: -119.5, y: -66.5}
+        - {x: -118.5, y: -67.5}
+        - {x: -117.5, y: -66.5}
+        - {x: -112.5, y: -66.5}
+      - - {x: -100.5, y: -60.5}
+        - {x: -99.5, y: -57.5}
+        - {x: -97.5, y: -58.5}
+        - {x: -100.5, y: -64.5}
+      - - {x: 96.5, y: -47.5}
+        - {x: 96.5, y: -49.5}
+        - {x: 99.5, y: -52.5}
+        - {x: 100.5, y: -52.5}
+        - {x: 103.5, y: -49.5}
+        - {x: 102.5, y: -46.5}
+        - {x: 98.5, y: -45.5}
+      - - {x: 74.5, y: 25.5}
+        - {x: 71.5, y: 24.5}
+        - {x: 64.5, y: 16.5}
+        - {x: 65.5, y: 13.5}
+        - {x: 76.5, y: 13.5}
+        - {x: 83.5, y: 18.5}
+        - {x: 83.5, y: 22.5}
+        - {x: 82.5, y: 25.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: aethers_back_sides2_20
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 7
+        width: 243
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80.5, y: 157.5}
+        - {x: -70.5, y: 157.5}
+        - {x: -121.5, y: 58.5}
+        - {x: -121.5, y: -157.5}
+        - {x: 121.5, y: -157.5}
+        - {x: 121.5, y: 25.5}
+        - {x: 91.5, y: 152.5}
+      - - {x: 100.5, y: -148.5}
+        - {x: 102.5, y: -150.5}
+        - {x: 105.5, y: -149.5}
+        - {x: 105.5, y: -146.5}
+        - {x: 103.5, y: -144.5}
+        - {x: 100.5, y: -145.5}
+      - - {x: 89.5, y: 65.5}
+        - {x: 86.5, y: 64.5}
+        - {x: 80.5, y: 51.5}
+        - {x: 80.5, y: 44.5}
+        - {x: 81.5, y: 43.5}
+        - {x: 86.5, y: 43.5}
+        - {x: 91.5, y: 49.5}
+        - {x: 91.5, y: 64.5}
+      - - {x: -38.5, y: 157.5}
+        - {x: -41.5, y: 157.5}
+        - {x: -47.5, y: 155.5}
+        - {x: -47.5, y: 142.5}
+        - {x: -42.5, y: 142.5}
+        - {x: -37.5, y: 147.5}
+        - {x: -37.5, y: 155.5}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

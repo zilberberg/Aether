@@ -1,0 +1,37 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class RotateCam : MonoBehaviour {
+    public float speed = 0.1F;
+    //private RawImage image;
+    private Vector3 v3;
+    private Vector3 CapVec;
+    private Camera cam;
+
+    // Use this for initialization
+    void Start()
+    {
+        //image = GetComponent<RawImage>();
+
+        cam = GetComponent<Camera>();
+        //CapVec = Cap.transform.;
+
+
+    }
+
+    // Update is called once per frame
+    void FixedUpdate()
+    {
+        if (Input.touchCount > 0 && Input.touchCount < 2 && Input.GetTouch(0).phase == TouchPhase.Moved)
+        {
+            // Get movement of the finger since last frame
+            Vector2 touchDeltaPosition = Input.GetTouch(0).deltaPosition;
+
+            // Move object across XY plane
+            //image.transform.Rotate(Vector3.forward * -touchDeltaPosition.x * speed);
+            //image.transform.RotateAround(Vector3.zero, Vector3.up, -touchDeltaPosition.x * speed);         
+            cam.transform.RotateAround(Vector3.forward,Vector3.up, -touchDeltaPosition.x * speed);
+        }
+
+    }
+}
